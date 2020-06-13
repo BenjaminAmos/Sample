@@ -17,7 +17,7 @@ package org.terasology.sample.nui;
 
 import org.terasology.registry.In;
 import org.terasology.rendering.nui.CoreScreenLayer;
-import org.terasology.rendering.nui.widgets.UILabel;
+import org.terasology.nui.widgets.UILabel;
 import org.terasology.world.block.BlockManager;
 
 public class BlockFamilyCountScreen extends CoreScreenLayer {

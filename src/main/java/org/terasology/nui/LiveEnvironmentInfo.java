@@ -28,9 +28,9 @@ import org.terasology.logic.players.LocalPlayer;
 import org.terasology.naming.Name;
 import org.terasology.registry.In;
 import org.terasology.rendering.nui.CoreScreenLayer;
-import org.terasology.rendering.nui.widgets.UIButton;
-import org.terasology.rendering.nui.widgets.UIDropdown;
-import org.terasology.rendering.nui.widgets.UIText;
+import org.terasology.nui.widgets.UIButton;
+import org.terasology.nui.widgets.UIDropdown;
+import org.terasology.nui.widgets.UIText;
 
 import java.util.ArrayList;
 import java.util.List;

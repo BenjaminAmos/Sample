@@ -19,8 +19,8 @@ import com.google.common.collect.Iterables;
 import org.terasology.entitySystem.entity.EntityManager;
 import org.terasology.registry.In;
 import org.terasology.rendering.nui.CoreScreenLayer;
-import org.terasology.rendering.nui.widgets.UIButton;
-import org.terasology.rendering.nui.widgets.UIText;
+import org.terasology.nui.widgets.UIButton;
+import org.terasology.nui.widgets.UIText;
 
 public class AmountofEntities extends CoreScreenLayer {
     private UIText infoArea;

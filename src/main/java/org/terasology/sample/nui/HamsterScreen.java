@@ -16,7 +16,7 @@
 package org.terasology.sample.nui;
 
 import org.terasology.rendering.nui.CoreScreenLayer;
-import org.terasology.rendering.nui.widgets.UIText;
+import org.terasology.nui.widgets.UIText;
 
 public class HamsterScreen extends CoreScreenLayer {
     private UIText infoArea;
